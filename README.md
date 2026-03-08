@@ -41,7 +41,7 @@
 </p>
 
 
-  <img src="C:\Users\User\Desktop\Document\NK.jpeg" alt="Profile Visit"/>
+  <img src="https://portfolio-navy-pi-87.vercel.app/" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
