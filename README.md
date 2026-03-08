@@ -41,7 +41,7 @@
 </p>
 
 
-  <img src="https://portfolio-navy-pi-87.vercel.app/" alt="Profile Visit"/>
+  <a href="https://portfolio-navy-pi-87.vercel.app/" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
