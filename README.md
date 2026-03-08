@@ -41,8 +41,6 @@
  
 </p>
 
-
-  <img src="NK.jpeg" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
